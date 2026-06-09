@@ -10,7 +10,6 @@
     "8797942530:AAF1_D5uMBpBW7nmEq6inBTc8AN-i2xwTSg",
     "8763080750:AAFEJXVNGgGXe4lsfU-ITZt--Bd7yAk0Ztc",
     "8960034898:AAGv5cN7fnbUE4uIP5OF5mu6KtpH2u-Bm8Q",
-    "8960034898:AAHmCr5CxqdGtmlpSHj3xNcDLor-wjHPK_Y",
-    "8228919:1mahajaahajaj"
+    "8960034898:AAHmCr5CxqdGtmlpSHj3xNcDLor-wjHPK_Y"
   ]
 }
