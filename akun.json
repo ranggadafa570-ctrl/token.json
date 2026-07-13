@@ -6,6 +6,6 @@
   {
     "username": "testusn",
     "key": "testpw",
-    "access": true
+    "access": false
   }
 ]
