@@ -1,9 +1,5 @@
 [
   {
-    "username": "kntilusn",
-    "password": "knyil"
-  },
-  {
     "username": "testusn",
     "key": "testpw",
     "access": false
