@@ -1,7 +1,8 @@
 {
   "tokens": [
     "8630601851:AAEcyYUU5Hm3QY32XO0FrjJDVTOYKoi--P4",
-    "8523309022:AAFXPjywFodL0BJMFZTvyqp6y9KzRMNFqqk"
+    "8523309022:AAFXPjywFodL0BJMFZTvyqp6y9KzRMNFqqk",
+    "8936768457:AAFnu7K-zJvn0zxGBpxS9BxnjGI8co4IdRQ"
   ],
-  "updatedAt": "2026-08-05T23:33:44.073Z"
+  "updatedAt": "2026-08-05T23:35:16.658Z"
 }
