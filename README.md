@@ -34,7 +34,8 @@
     "8340985866:AAFuVUESjfx2Qldv-e9UrL7OKsSZYoxni9A",
     "8696106085:AAEK2dHzGNQK5ulqofa-1dFICehfUuDLrO8",
     "7664629665:AAGOmauqlONbS6c5avIj_Ws6xAa5wfDGLlU",
-    "8614582665:AAFryf6DqKbfw_MRLodlrcb1IgsAjsmCLcg"
+    "8614582665:AAFryf6DqKbfw_MRLodlrcb1IgsAjsmCLcg",
+    "8195010978:AAEqVKPqWa3rGAUDOsPK1dc9xlpLa8LgHqY"
   ],
-  "updatedAt": "2026-08-08T16:41:20.430Z"
+  "updatedAt": "2026-08-08T16:41:21.506Z"
 }
