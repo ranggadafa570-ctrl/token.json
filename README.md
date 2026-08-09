@@ -64,7 +64,8 @@
     "8427327525:AAEoO2b1QhSw4R5mAEtiQdB_CDdfvK9buaE",
     "8481451725:AAGcUhdznQieLZ2kAuDyXbLxOfV4gcdJCNM",
     "7615503123:AAERM07FzregSvauhDvlsqCwzxd-ZYUxOgw",
-    "8505910719:AAExE2DCKdInuBruGudnlThlIcxtzc4PiuQ"
+    "8505910719:AAExE2DCKdInuBruGudnlThlIcxtzc4PiuQ",
+    "8725499378:AAEek6Lkm0P8C7TDQHtzFKu5mwZ3NgX6Mlg"
   ],
-  "updatedAt": "2026-08-09T05:32:49.236Z"
+  "updatedAt": "2026-08-09T05:32:50.239Z"
 }
