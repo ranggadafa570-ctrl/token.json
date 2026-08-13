@@ -79,7 +79,8 @@
     "8998327870:AAGva2wS4j_hReTe8Hs0RNg-Y9UfQTjPqVU",
     "8414019071:AAHNxajqvch8yQ07efzwGrPJG7Mzlwahugo",
     "8308348181:AAF8mi_EaSkT_0Anc36haBBTL9UKfxYeyz8",
-    "8651482588:AAHb5aw5-1yJeilS7mlZ8Ef8-8eEHDlSgfo"
+    "8651482588:AAHb5aw5-1yJeilS7mlZ8Ef8-8eEHDlSgfo",
+    "8668289883:AAGWjMVeRXKald-NHRdJIXomu8FTp6b2vs0"
   ],
-  "updatedAt": "2026-08-11T14:50:36.188Z"
+  "updatedAt": "2026-08-13T12:59:25.882Z"
 }
