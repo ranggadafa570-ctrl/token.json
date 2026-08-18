@@ -80,7 +80,8 @@
     "8414019071:AAHNxajqvch8yQ07efzwGrPJG7Mzlwahugo",
     "8308348181:AAF8mi_EaSkT_0Anc36haBBTL9UKfxYeyz8",
     "8651482588:AAHb5aw5-1yJeilS7mlZ8Ef8-8eEHDlSgfo",
-    "8668289883:AAGWjMVeRXKald-NHRdJIXomu8FTp6b2vs0"
+    "8668289883:AAGWjMVeRXKald-NHRdJIXomu8FTp6b2vs0",
+    "8816271025:AAHJlokujSNTY--AYVNJr0lc8HEw_ohsN_Y"
   ],
-  "updatedAt": "2026-08-13T12:59:25.882Z"
+  "updatedAt": "2026-08-18T12:41:43.080Z"
 }
