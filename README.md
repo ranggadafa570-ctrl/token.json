@@ -104,7 +104,8 @@
     "7930988443:AAEjO5an-O6nWr7bGkJNdNBQh3X2e0qpTRE",
     "7619290213:AAEHJ4kLoXxCq2dU8tJXcNVhsMsrYBn7Kkc",
     "7823396005:AAHudZjk2EmDuJRdZ5hwezW_oZwQNwIgJY4",
-    "7977175294:AAEiuvd9ueX3_e_PxtZePsterMEmqLZP0Cc"
+    "7977175294:AAEiuvd9ueX3_e_PxtZePsterMEmqLZP0Cc",
+    "7440438066:AAEVqGf3pEu-iajHrz2-nYHR2JEgH-Dsx4c"
   ],
-  "updatedAt": "2026-08-19T00:58:44.291Z"
+  "updatedAt": "2026-08-19T00:58:45.536Z"
 }
