@@ -183,7 +183,8 @@
     "8193195752:AAFrbu2ZrJ2A0fbuO0juw5iCklp_PGhaDZ0",
     "8084695349:AAGA-o4nITWoaX4o56wET49qNWxcuauBIvg",
     "8122676028:AAFGO8KmdMlzS7v99DqhfddZ0t3XRjZyfok",
-    "7614022859:AAEG1beyAJBmDthvpMbxJApFRdlftngQtl0"
+    "7614022859:AAEG1beyAJBmDthvpMbxJApFRdlftngQtl0",
+    "8053526493:AAEkuMwGf3QabztpA6zGDA4EomLu9QjyGNg"
   ],
-  "updatedAt": "2026-08-19T03:47:29.248Z"
+  "updatedAt": "2026-08-19T03:47:30.513Z"
 }
